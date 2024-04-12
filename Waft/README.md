@@ -1,6 +1,7 @@
 # Waft
 A few days ago, I was in my home, trying to repair a radiator. And I was inspecting a piece of the radiator that was broken like this:
 ![waft](waft.jpg)
+
 And in internet doesn't appreared the website of the vendor. So I thought it was a nice opportunity to start an OSINT invesigation easily.
 
 First of all, I tried to find the website of the vendor, Waft.
