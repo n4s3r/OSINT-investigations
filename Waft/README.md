@@ -10,6 +10,7 @@ And in internet doesn't appreared the website of the vendor. So I thought it was
 
 You can see in the image, in the right, down, there's a website: www.waftcontrol.com.
 - So I tried to connect to that website, but didn't work:
+
 ![waft domain](https://github.com/n4s3r/OSINT-investigations/assets/145504084/e58e5d1b-d7d6-4c6c-97e3-bb145c5fb8dc)
 
 - That didn't work because doesn't exists www.waftcontrol.com:
