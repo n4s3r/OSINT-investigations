@@ -14,7 +14,7 @@ So I tried to connect to that website, but didn't work:
 That didn't work because doesn't exists www.waftcontrol.com:
 ![DNS resolver](https://github.com/n4s3r/OSINT-investigations/assets/145504084/24896080-6229-4d0d-8bab-f05e03ebea3e)
 
-So I tried to search more information using google dorks. My idea is gather information about the website when it existed. But didn't work:
+So I tried to search more information using google dorks. My idea was gather information about the website when it existed. But didn't work:
 ![dorks search 1](https://github.com/n4s3r/OSINT-investigations/assets/145504084/b4c0070e-b5f1-41ca-b208-f20479baa806)
 
 I tried to use another dorks like this, but It didn't work:
